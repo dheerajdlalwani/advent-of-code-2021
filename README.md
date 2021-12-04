@@ -8,4 +8,5 @@
 
     Day | Experience | Resources 
     :-: | :--------: | :-------: 
-    01  | First day. Starting off with some pretty easy problems. Bringing in the sliding window concept in part two. | [GeeksForGeeks - Sliding Window Technique](https://www.geeksforgeeks.org/window-sliding-technique/) 
+    01  | First day. Starting off with some pretty easy problems. Bringing in the sliding window concept in part two. | [GeeksForGeeks - Sliding Window Technique](https://www.geeksforgeeks.org/window-sliding-technique) 
+    02 | Second day having pretty easy problems too. Simple implementation - thats it. Nothing special. | - 
