@@ -10,3 +10,4 @@
     :-: | :--------: | :-------: 
     01  | First day. Starting off with some pretty easy problems. Bringing in the sliding window concept in part two. | [GeeksForGeeks - Sliding Window Technique](https://www.geeksforgeeks.org/window-sliding-technique) 
     02 | Second day having pretty easy problems too. Simple implementation - thats it. Nothing special. | - 
+    03 | Sigh. So, I lost my enthusiasm and hence the long break. But I completed part 1 on time but finished part 2 quite late. I will try my best to catch up with the backlog. Used ArrayList and, particularly the removeIf methon to filter the elements. | [GeeksForGeeks - ArrayList removeIf() method in Java](https://www.geeksforgeeks.org/arraylist-removeif-method-in-java)
